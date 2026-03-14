@@ -15,8 +15,6 @@ I'm a **Software Engineering Student** 🎓 (50% complete) enthusiast about Back
 ---
 
 ### 📊 GitHub Stats
-
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yan2005dris-afk&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
   
