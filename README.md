@@ -26,7 +26,4 @@ I'm a **Software Engineering Student** 🎓 (50% complete) enthusiast about Back
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yan2005dris-afk&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas generales" />
 </p>
-### 🗂️ Featured Projects
-* **[JASRAPO-BACKEND]** - Un proyecto enfocado en [añade una breve descripción aquí].
-* **[Publimes]** - [Breve descripción de este proyecto].
 
